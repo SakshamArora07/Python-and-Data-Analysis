@@ -1,0 +1,6 @@
+cars_per_cap,country,drives_right
+100,india,True
+234,usa,False
+354,canada,False
+421,russia,False
+235,china,True
